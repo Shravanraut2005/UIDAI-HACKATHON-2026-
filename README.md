@@ -1,4 +1,18 @@
 # UIDAI-HACKATHON-2026-
+
+## Aadhaar Activity Insights 2025: Enrollment and Update Patterns Across India  
+
+📌 **Team Name:** StatStrom  
+📌 **UIDAI Team ID:** 3285  
+📌 **Date:** January 20, 2026  
+
+### 👥 Team Members  
+- Shravan Raut  [Team Leader]
+- Viraj Shivale  
+- Mayur Kharche  
+- Prathmesh Tupkari 
+
+
 Predictive Aadhaar Operational Strategy portal using Python, Streamlit, and Plotly. Features include Maintenance Burden Ratio (MBR) analysis, temporal trend forecasting, and anomaly intelligence for national resource optimization.
 
 ## 📌 Problem Statement  
